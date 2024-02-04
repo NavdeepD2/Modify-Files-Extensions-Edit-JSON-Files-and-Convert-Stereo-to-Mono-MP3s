@@ -1,6 +1,6 @@
 #!/bin/bash
 # Written by Navdeep Singh (navdeep.d2@gmail.com)
-
+# test code
 # ANSI escape codes for colors and styles
 GREEN='\033[1;32m'
 BOLD='\033[1m'
